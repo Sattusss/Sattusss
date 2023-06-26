@@ -22,6 +22,6 @@ I'm currently working as Data Scientist in Human Resocia, Japan<br>
 [![](https://gtce.itsvg.in/api?username=http://twitter.com/_satyam_345)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sattusss&icon=2&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sattusss&label=Profile%20Views&color=4&icon=1&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
