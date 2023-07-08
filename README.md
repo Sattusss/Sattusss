@@ -1,6 +1,13 @@
 # 💫 About Me:
-I'm currently working as Data Scientist in Human Resocia, Japan<br>
-
+Python Developer with a strong focus on leveraging technology to create meaningful solutions. Currently learning the Japanese language. Worked on a prject called "Voice-based email for visually impaired people" using Python. Skilled in GitHub, Tkinter, object detection, and Python programming, I bring hands-on experience from my previous internship at Digipodium, where I contributed to a project on "Vision correction and enhancement using computer vision technology" using Python and TensorFlow. I hold a Master's degree in Computer Applications with expertise in public speaking, presentation skills, research, and data analysis. Passionate about creating innovative solutions and enhancing user experiences. Open to exciting opportunities in Python development.Certified from IBM in Data Analysis.
+* → Certified from IBM in Data Science<br>
+* → Certified from IBM in Data Visualization<br>
+* → Used the @leet code to solve 50+ problems<br>
+* → Certified from Hackerrank in Python<br>
+* → Certified from Udemy in Data Science<br>
+* → Certified from Cisco in CCNA<br>
+* → Certified from IBM in Python for Data Science, AI and Development<br>
+* → Certifed in Data Analysis with R Programming from Google<br>
 
 
 ## 🌐 Socials:
