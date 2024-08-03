@@ -1,5 +1,10 @@
 # 💫 About Me:
-Python Developer with a strong focus on leveraging technology to create meaningful solutions. Currently learning the Japanese language. Worked on a prject called "Voice-based email for visually impaired people" using Python. Skilled in GitHub, Tkinter, object detection, and Python programming, I bring hands-on experience from my previous internship at Digipodium, where I contributed to a project on "Vision correction and enhancement using computer vision technology" using Python and TensorFlow. I hold a Master's degree in Computer Applications with expertise in public speaking, presentation skills, research, and data analysis. Passionate about creating innovative solutions and enhancing user experiences. Open to exciting opportunities in Python development.Certified from IBM in Data Analysis.
+Hi, I'm Satyam Tiwari, and I'm a skilled professional with a passion for technology. I have a strong background in AI, Data Science, and Machine Learning, and I'm certified by Google in Data Analytics and by Microsoft and IBM in Python. Currently, I'm working as a Data Scientist in Human Resocia Japan.
+My expertise in AI and Data Science is powered by my proficiency in Python programming, machine learning, data analysis, and data visualization. I enjoy designing and implementing machine learning models to analyze data and improve business operations. I also develop and optimize algorithms for data processing and analysis.
+
+In my free time, I enjoy playing video games like PUBG, Volarant and Listening Songs. 
+
+Here is my all skills->
 * → Certified from IBM in Data Science<br>
 * → Certified from IBM in Data Visualization<br>
 * → Used the @leet code to solve 50+ problems<br>
@@ -14,7 +19,7 @@ Python Developer with a strong focus on leveraging technology to create meaningf
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/sattusss) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/thesatyamtiwarii/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-tiwari-%F0%9F%87%AE%F0%9F%87%B3-70210a22b/) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_satyam_345) 
+[![Twitter(X)](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/_satyam_345)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/satyamtiwari345/)
 
 
