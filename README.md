@@ -1,8 +1,9 @@
 # 💫 About Me:
-Hi, I'm Satyam Tiwari, and I'm a skilled professional with a passion for technology. I have a strong background in AI, Data Science, and Machine Learning, and I'm certified by Google in Data Analytics and by Microsoft and IBM in Python. Currently, I'm working as a Data Scientist in Human Resocia Japan.
-My expertise in AI and Data Science is powered by my proficiency in Python programming, machine learning, data analysis, and data visualization. I enjoy designing and implementing machine learning models to analyze data and improve business operations. I also develop and optimize algorithms for data processing and analysis.
+I am a Data Scientist at Human Resocia Co. Ltd., Japan, specializing in Artificial Intelligence, Machine Learning, and Data Analytics. My expertise lies in developing scalable AI-driven solutions that enhance user experiences and drive business innovation.
 
-In my free time, I enjoy playing video games like PUBG, Volarant and Listening Songs. 
+With a strong foundation in Python, Data Science, and Deep Learning, I have successfully contributed to projects involving speech recognition systems, natural language processing, and computer vision applications. I am particularly focused on the practical implementation of AI technologies, ensuring they are both efficient and adaptable for real-world applications.
+
+I am committed to continuous learning and actively engage in coding challenges, research-driven projects, and industry-relevant innovations to stay at the forefront of emerging technologies.
 
 Here is my all skills->
 * → Certified from IBM in Data Science<br>
