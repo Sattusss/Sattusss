@@ -1,79 +1,24 @@
-<h1 align="center">Hi there, I'm Satyam Tiwari 👋</h1>
-<h3 align="center">Data Scientist | AI/ML Enthusiast | Python Developer | Problem Solver</h3>
+# 💫 About Me:
+🎯 I’m currently working on developing AI-powered applications, including a voice-based data entry system using ASR and TTS, and a project on electronic medical record generation and disease progression prediction using LLMs and deep learning models.<br>🤝 I’m looking to collaborate on innovative projects in AI/ML, especially in healthcare tech, speech recognition, and educational tools.<br>🧠 I’m looking for help with fine-tuning large language models, deployment strategies using Docker/Azure, and best practices for scalable ML solutions.<br>🌱 I’m currently learning advanced Japanese, exploring generative AI tools, and diving deeper into LLM architecture and prompt engineering.<br>💬 Ask me about voice tech, ML in healthcare, Streamlit apps, or how to start a tech-based startup from scratch.<br>⚡ Fun fact: I run a chai startup called Chai Cloud and a food Instagram account on the side—and I love mixing tech with tea and creativity!<br><br>
+
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sattusss) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thesatyamtiwarii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/satyam-tiwari-70210a22b) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Itssatyam) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_satyam_345) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itssatyam.345@gmail.com) 
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sattusss&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sattusss&theme=monokai&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sattusss&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sattusss&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=sattusss&icon=2&color=8)](https://visitcount.itsvg.in)
 
-## 💼 About Me
-
-🎯 I’m a Data Scientist at **Human Resocia Co. Ltd., Japan**, working on cutting-edge projects in **Artificial Intelligence**, **Machine Learning**, and **Data Analytics**.
-
-🔍 My background includes:
-- Building scalable AI systems for **Speech Recognition**, **Computer Vision**, and **NLP**
-- Practical experience with **deep learning**, **data pipelines**, and **real-world deployments**
-- A commitment to **continuous learning** and innovation through hackathons, coding, and research
-
----
-
-## 🧠 Certifications & Achievements
-
-📜 I'm certified in:
-- IBM Data Science
-- IBM Data Visualization
-- IBM Python for Data Science, AI & Development
-- Google Data Analysis with R
-- Cisco CCNA
-- Hackerrank Python
-- Udemy Data Science Bootcamp
-
-🏅 I’ve solved 50+ problems on [LeetCode](https://leetcode.com/satyamtiwari345/)
-
----
-
-## 🛠️ Tech Stack
-
-**Languages & Frameworks:**
-> Python | R | HTML | CSS | JavaScript | Markdown  
-> Django | Flask | Django REST | MySQL | SQLite | Oracle
-
-**Tools & Libraries:**
-> Pandas | NumPy | Matplotlib | Plotly | Scikit-learn | SciPy  
-> TensorFlow | Keras | PyTorch | Anaconda | Jupyter | Blender
-
-**Other Skills:**
-> Git | GitLab | Docker | Linux | Data Visualization | REST APIs
-
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-tiwari-%F0%9F%87%AE%F0%9F%87%B3-70210a22b/)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/thesatyamtiwarii/)
-[![Facebook](https://img.shields.io/badge/-Facebook-%231877F2?logo=facebook&logoColor=white)](https://www.facebook.com/sattusss)
-[![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2?logo=twitter&logoColor=white)](https://x.com/_satyam_345)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-%23FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/satyamtiwari345/)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sattusss&theme=nightowl&show_icons=true&hide_border=false" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sattusss&theme=nightowl&hide_border=false" alt="GitHub Streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sattusss&layout=compact&theme=nightowl&hide_border=false" alt="Top Languages"/>
-</p>
-
----
-
-## 🐦 Latest Tweet
-
-[![](https://gtce.itsvg.in/api?username=http://twitter.com/_satyam_345)](https://x.com/_satyam_345)
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=sattusss&label=Profile%20Views&color=5&icon=5&pretty=true" alt="Profile views"/>
-</p>
-
-<!-- Made with ❤️ by Satyam Tiwari -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
